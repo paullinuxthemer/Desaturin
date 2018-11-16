@@ -6,7 +6,6 @@ a GTK2,and GTK3 file for the Gnome-desktop
 
 
 
-
 A completely colorless (desaturated) version of my Telinkrin-theme.
 
 https://github.com/paullinuxthemer/Telinkrin-GTK
