@@ -29,7 +29,7 @@ GTK+ 3.20 or later. Only standard (or Ubuntu) gnome-desktop is supported. Ready 
 Disable gnome-extensions that reside on the headerbar because they mess up the headerbar-theming.
 
 Window-buttons-layout (min/max/close) at the right side. (DO NOT PUT IT ON THE LEFT-SIDE)
-No support for left-side window-controls! There will be no future support for left-sided buttons...
+No support for left-sided buttons for the moment...
 
 GTK2 ENGINES REQUIREMENT
 
