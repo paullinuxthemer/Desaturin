@@ -7161,7 +7161,7 @@ messagedialog.csd .dialog-action-area button:only-child {
 
 .sidebar {
 
-  min-width: 150px;
+  /*min-width: 150px;*/
   border-style: none;
   background-color: #ededed; }
 
